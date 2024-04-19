@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>Document</title>
+        </head>
+
+        <style> 
+            body{
+                background-color: beige;
+                
+            }
+            table, h1{
+                text-align: center;
+                font-style: oblique;
+                font-size: 90px;
+                margin: auto;
+                border: 10px solid black;
+                border-style:groove;
+            }
+            h2{
+                text-align: center;
+                font-family:unset;
+                font-size: 35px; 
+            }
+            table, img {
+            border: 20px solid black;
+            margin: auto;
+            border-style:groove;
+            }
+            p{
+                font-size: 50px;
+                font-style: oblique;
+                text-align: center;
+            }
+            button {
+                font-size: 15px;
+                border: 5px;
+                border-radius: 30px;
+                width: 300px;
+                height: 50px;
+                background-color: grey;
+            }
+
+            
+        </style>
+
+        <body>
+            <div>
+                <table>
+                    <tr>
+                        <td>
+                            <h1>
+                                Casamento perfeito
+                            </h1>
+                        
+                        </td>
+                
+                    </tr>
+                </table>
+
+                <h2>
+                    Confira alguns dos servisos de nossa equipe: encontre seu convite perfeito, seu vestido especial e sua decoração dos sonhos. Passe um dos dias mais especiais da sua vida da melhor maneira possivel!
+                </h2>
+            </div>
+
+            <table>
+                <tr>
+                    <td>
+                        
+                        <img src="casamento.jpg" width="470" height="585" alt="Texto alternativo" title="Monalisa Been"/>
+                        <img src="Cerimonia.jpg" width="470" height="585" alt="Texto alternativo" title="Monalisa Been"/>
+                        <img src="Festa.jpg" width="470" height="585" alt="Texto alternativo" title="Monalisa Been"/>
+                        
+
+                    </td>
+            
+                </tr>
+            </table>
+            <br>
+            <h2>
+                Confira também nossa assistencia para cerimonias. Nossa equipe te ajudará a organizar tudo conforme o planejado!
+            </h2>
+            <br>
+            <center>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/jmubU_EBaNU?si=nLhfO0f6d6LahDF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
+                allowfullscreen></iframe>
+            </center>
+             <br>
+            <p> 
+                <br>
+                Explore os nosso servisos.
+            </p>
+           
+            <center>
+                
+                <a href="pagina1.html"><button>Convites</button></a>
+                <a href="pagina2.html"><button>Vestidos e ternos</button></a>
+                <a href="pagina3.html"><button>Bolos</button></a>
+
+            </center>
+
+            
+            <br>
+            
+            <p>
+                E confira nosso site
+            </p>
+
+            <center>
+                <a href="https://trancoso.grupobisutti.com.br/?utm_source=google&utm_campaign=bisutti-chez_bisutti_search_lead_trancoso_29_07_23-cadastro&utm_medium=search&utm_content=paid_search-paid_search-desktop_mobile-destination%20wedding-p_000000156&keyword=destination%20wedding&creative=667300636201&gad_source=1&gclid=Cj0KCQjwiYOxBhC5ARIsAIvdH50hzO0RdEj5H39AKfVCq2pgJiROIX2iWXgJsCcgceKjQqpX_yPAC-IaAr2KEALw_wcB"><button>Fale conosco</button></a>
+            </center>
+
+            
+
+            <br>
+        </body>
+    </html>
