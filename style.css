@@ -11,12 +11,13 @@ body{
 
 
 #cabecalho{
-    height: 150px;
-    width: 95%;
+    height: 300px;
+    width: 150px;
     margin:  0 auto;
-    text-align: center;
-    font-style:oblique;
-    font-size: 100px;
+    margin-left: 550px;
+    margin-top: 10px;
+    border-radius: 10px;
+    
 }
 
 #menu{
@@ -42,9 +43,9 @@ button{
 }
 
 #conteudo{
-    height: 550px;
+    height: 700px;
     width: 750px;
-    background-color: rgb(245, 245, 219);
+    background-color: #F9F4EE;
     border-radius: 15px 50px 30px 5px;  
     float: left;
     margin-top: 10px;
@@ -55,6 +56,33 @@ button{
     
 
 }
+#conteudo2{
+    height: 850px;
+    width: 750px;
+    background-color: #F9F4EE;
+    border-radius: 15px 50px 30px 5px;  
+    float: left;
+    margin-top: 10px;
+    margin-left: 5px;
+    font-size: 35px;
+    font-style:oblique;
+    text-align:center;
+}
+#conteudo1{
+    height: 470px;
+    width: 750px;
+    background-color: #F9F4EE;
+    border-radius: 15px 50px 30px 5px;  
+    float: left;
+    margin-top: 10px;
+    margin-left: 5px;
+    font-size: 35px;
+    font-style:oblique;
+    text-align:center;
+    
+
+}
+
 p{
     font-size: 18px;
     font-style: unset;
@@ -64,10 +92,12 @@ p{
     
 }
 ul{
-    font-size: 15px;
+    font-size: 18px;
     font-style: unset;
     text-align:left;
     padding: 20px;
+    margin-top: 10px;
+    
 }
 
 #lado{
@@ -94,6 +124,22 @@ img{
     width: 300px;
     background-color:rgb(103, 179, 103);
     float: left;
+    
+    margin-top: 30px;
+    margin-block-end: 5px;
+    font-size: 28px;
+    font-style:oblique;
+    border-radius: 15px;
+   
+    text-align: center;
+}
+
+#lado2{
+    
+    height: 340px;
+    width: 350px;
+    background-color:rgb(103, 179, 103);
+    float: left;
     margin-left: 5px;
     margin-top: 10px;
     margin-block-end: 5px;
@@ -103,4 +149,17 @@ img{
     text-align: center;
 }
 
-
+#rodape2{
+    height: 92px;
+    width: 300px;
+    background-color:rgb(103, 179, 103);
+    float: left;
+    
+    margin-top: 30px;
+    margin-block-end: 5px;
+    font-size: 28px;
+    font-style:oblique;
+    border-radius: 15px;
+   
+    text-align: center;
+}
